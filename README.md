@@ -5,7 +5,7 @@
     <h1><b>Finance App</b></h1>
 </div>
 
-<img src="src/assets/images/finance.png"><img>
+<img src="src/assets/images/finance.jpg"><img>
 ---
 
 <!-- TABLE OF CONTENTS -->
