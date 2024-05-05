@@ -37,8 +37,7 @@
 
 # 📖 Finance App <a name="about-project"></a>
 
-- This project is a user-friendly web app providing comprehensive company data, including financial metrics like 52-week high, 52-week low, and market capitalization. Features include personalized watchlists, Mobile-friendly, easy to use, and modern design.
-
+- Application that provides comprehensive data on market-leading companies, including financial metrics and market capitalization.
   Access companies profile (Price, Beta, Volume Average, Market Capitalization, Last Dividend, 52 week range, stock price change, stock price change in percentage, Company Name, Sector, website and image link).
 
 ---
